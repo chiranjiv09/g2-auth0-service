@@ -1,0 +1,12 @@
+com\pms\controller\AuthController.class
+com\pms\entity\Admin.class
+com\pms\entity\Nurse.class
+com\pms\repository\AdminRepository.class
+com\pms\repository\NurseRepository.class
+com\pms\service\impl\AuthServiceImpl.class
+com\pms\Auth0Application.class
+com\pms\entity\CustomIdGenerator.class
+com\pms\controller\CentralizedLogging.class
+com\pms\entity\Doctor.class
+com\pms\repository\DoctorRepository.class
+com\pms\service\AuthService.class
